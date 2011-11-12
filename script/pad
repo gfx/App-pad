@@ -1,0 +1,14 @@
+#!perl
+use strict;
+use warnings;
+use App::pad;
+
+my $app = App::pad->new(@ARGV);
+$app->run();
+__END__
+
+=head1 DESCRIPTION
+
+See L<App::pad>.
+
+=cut
