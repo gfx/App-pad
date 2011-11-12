@@ -141,7 +141,7 @@ __END__
 
 =head1 NAME
 
-App::pad - 3-letter interface to Plack::App::Directory
+App::pad - Three-letters interface to Plack::App::Directory
 
 =head1 VERSION
 
